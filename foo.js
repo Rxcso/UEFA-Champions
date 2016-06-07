@@ -9,6 +9,12 @@
         });
         
         
+function sorteo(){
+    $('#sorteo').innerHTML = $('#pot1').childNodes[3].nodeValue;   
+    return 0;    
+    
+}        ;
+        
         
         
 // Create a new object based of the HTMLElement prototype

@@ -1,0 +1,456 @@
+<x-product data-name="Real Madrid CF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50051.png"></x-product>
+<x-product data-name="FC Bayern München" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50037.png"></x-product>
+<x-product data-name="FC Barcelona" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50080.png"></x-product>
+<x-product data-name="Club Atlético de Madrid" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50124.png"></x-product>
+<x-product data-name="Chelsea FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52914.png"></x-product>
+<x-product data-name="SL Benfica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50147.png"></x-product>
+<x-product data-name="Paris Saint-Germain" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52747.png"></x-product>
+<x-product data-name="Borussia Dortmund" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52758.png"></x-product>
+<x-product data-name="Juventus" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50139.png"></x-product>
+<x-product data-name="Arsenal FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52280.png"></x-product>
+<x-product data-name="Manchester City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52919.png"></x-product>
+<x-product data-name="Valencia CF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52268.png"></x-product>
+<x-product data-name="FC Schalke 04" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57388.png"></x-product>
+<x-product data-name="Sevilla FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52714.png"></x-product>
+<x-product data-name="FC Zenit" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52826.png"></x-product>
+<x-product data-name="FC Porto" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50064.png"></x-product>
+<x-product data-name="SSC Napoli" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50136.png"></x-product>
+<x-product data-name="Bayer 04 Leverkusen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50109.png"></x-product>
+<x-product data-name="FC Basel 1893" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59856.png"></x-product>
+<x-product data-name="Manchester United FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52682.png"></x-product>
+<x-product data-name="FC Shakhtar Donetsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52707.png"></x-product>
+<x-product data-name="Athletic Club" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50125.png"></x-product>
+<x-product data-name="Tottenham Hotspur FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/1652.png"></x-product>
+<x-product data-name="Olympiacos FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2610.png"></x-product>
+<x-product data-name="AC Milan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png"></x-product>
+<x-product data-name="FC Dynamo Kyiv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52723.png"></x-product>
+<x-product data-name="SS Lazio" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52973.png"></x-product>
+<x-product data-name="Olympique Lyonnais" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/5312.png"></x-product>
+<x-product data-name="Villarreal CF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/70691.png"></x-product>
+<x-product data-name="AFC Ajax" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50143.png"></x-product>
+<x-product data-name="FC Internazionale Milano" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50138.png"></x-product>
+<x-product data-name="Galatasaray AŞ" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50067.png"></x-product>
+<x-product data-name="PSV Eindhoven" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50062.png"></x-product>
+<x-product data-name="ACF Fiorentina" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52817.png"></x-product>
+<x-product data-name="Liverpool FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/7889.png"></x-product>
+<x-product data-name="VfL Wolfsburg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64332.png"></x-product>
+<x-product data-name="FC Dnipro Dnipropetrovsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50158.png"></x-product>
+<x-product data-name="RSC Anderlecht" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50074.png"></x-product>
+<x-product data-name="FC Rubin" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/828100.png"></x-product>
+<x-product data-name="Sporting Clube de Portugal" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50149.png"></x-product>
+<x-product data-name="PFC CSKA Moskva" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/54266.png"></x-product>
+<x-product data-name="Olympique de Marseille" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52748.png"></x-product>
+<x-product data-name="FC Viktoria Plzeň" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64388.png"></x-product>
+<x-product data-name="AZ Alkmaar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52327.png"></x-product>
+<x-product data-name="Málaga CF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/74069.png"></x-product>
+<x-product data-name="SC Braga" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52336.png"></x-product>
+<x-product data-name="Club Brugge KV" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50043.png"></x-product>
+<x-product data-name="FC Salzburg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50030.png"></x-product>
+<x-product data-name="VfL Borussia Mönchengladbach" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52757.png"></x-product>
+<x-product data-name="Hannover 96" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57488.png"></x-product>
+<x-product data-name="AS Roma" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50137.png"></x-product>
+<x-product data-name="Fenerbahçe SK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52692.png"></x-product>
+<x-product data-name="AC Sparta Praha" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50033.png"></x-product>
+<x-product data-name="Celtic FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50050.png"></x-product>
+<x-product data-name="FC Metalist Kharkiv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50102.png"></x-product>
+<x-product data-name="PAOK FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50130.png"></x-product>
+<x-product data-name="FC Steaua Bucureşti" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50065.png"></x-product>
+<x-product data-name="AS Monaco FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50023.png"></x-product>
+<x-product data-name="Trabzonspor AŞ" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52731.png"></x-product>
+<x-product data-name="KRC Genk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/61582.png"></x-product>
+<x-product data-name="APOEL FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/501100.png"></x-product>
+<x-product data-name="Beşiktaş JK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50157.png"></x-product>
+<x-product data-name="Levante UD" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/87959.png"></x-product>
+<x-product data-name="FC BATE Borisov" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/66168.png"></x-product>
+<x-product data-name="Real Betis Balompié" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52265.png"></x-product>
+<x-product data-name="FC Anji" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75050.png"></x-product>
+<x-product data-name="FC Lokomotiv Moskva" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53065.png"></x-product>
+<x-product data-name="Udinese Calcio" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/51310.png"></x-product>
+<x-product data-name="Newcastle United FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59324.png"></x-product>
+<x-product data-name="LOSC Lille" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75797.png"></x-product>
+<x-product data-name="Everton FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52281.png"></x-product>
+<x-product data-name="FC Girondins de Bordeaux" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50127.png"></x-product>
+<x-product data-name="Eintracht Frankfurt" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50072.png"></x-product>
+<x-product data-name="Legia Warszawa" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50146.png"></x-product>
+<x-product data-name="FC Dinamo Moskva" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52704.png"></x-product>
+<x-product data-name="Real Sociedad de Fútbol" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50123.png"></x-product>
+<x-product data-name="FC Twente" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/528100.png"></x-product>
+<x-product data-name="R. Standard de Liège" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52165.png"></x-product>
+<x-product data-name="Torino FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50029.png"></x-product>
+<x-product data-name="VfB Stuttgart" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50107.png"></x-product>
+<x-product data-name="AS Saint-Étienne" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50022.png"></x-product>
+<x-product data-name="GNK Dinamo Zagreb" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50164.png"></x-product>
+<x-product data-name="PFC Ludogorets Razgrad" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2603104.png"></x-product>
+<x-product data-name="KAA Gent" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/4608.png"></x-product>
+<x-product data-name="BSC Young Boys" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50031.png"></x-product>
+<x-product data-name="FC København" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52709.png"></x-product>
+<x-product data-name="FC Krasnodar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2601038.png"></x-product>
+<x-product data-name="SK Rapid Wien" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50042.png"></x-product>
+<x-product data-name="Stoke City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53356.png"></x-product>
+<x-product data-name="FC Augsburg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600978.png"></x-product>
+<x-product data-name="Swansea City AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52659.png"></x-product>
+<x-product data-name="Birmingham City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53342.png"></x-product>
+<x-product data-name="FC Slovan Liberec" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64385.png"></x-product>
+<x-product data-name="NK Maribor" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57490.png"></x-product>
+<x-product data-name="Fulham FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75386.png"></x-product>
+<x-product data-name="SC Freiburg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59880.png"></x-product>
+<x-product data-name="Molde FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50142.png"></x-product>
+<x-product data-name="Maccabi Tel-Aviv FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57477.png"></x-product>
+<x-product data-name="EA Guingamp" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60442.png"></x-product>
+<x-product data-name="Wigan Athletic FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89696.png"></x-product>
+<x-product data-name="FC Spartak Moskva" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50068.png"></x-product>
+<x-product data-name="Feyenoord" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52749.png"></x-product>
+<x-product data-name="FK Austria Wien" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50110.png"></x-product>
+<x-product data-name="Malmö FF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50152.png"></x-product>
+<x-product data-name="1. FSV Mainz 05" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/70853.png"></x-product>
+<x-product data-name="FC Chornomorets Odesa" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53064.png"></x-product>
+<x-product data-name="FC Zürich" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/51150.png"></x-product>
+<x-product data-name="Estoril Praia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/87944.png"></x-product>
+<x-product data-name="Vitória SC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50097.png"></x-product>
+<x-product data-name="CFR 1907 Cluj" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88131.png"></x-product>
+<x-product data-name="FK Partizan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50162.png"></x-product>
+<x-product data-name="Southampton FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52923.png"></x-product>
+<x-product data-name="Hull City AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600537.png"></x-product>
+<x-product data-name="Montpellier Hérault SC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50128.png"></x-product>
+<x-product data-name="KSC Lokeren OV" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/51949.png"></x-product>
+<x-product data-name="West Ham United FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53358.png"></x-product>
+<x-product data-name="FC Sion" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52824.png"></x-product>
+<x-product data-name="Asteras Tripolis FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600293.png"></x-product>
+<x-product data-name="CS Marítimo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53013.png"></x-product>
+<x-product data-name="FC Kuban Krasnodar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/85939.png"></x-product>
+<x-product data-name="UC Sampdoria" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50089.png"></x-product>
+<x-product data-name="US Città di Palermo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/881002.png"></x-product>
+<x-product data-name="Panathinaikos FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50084.png"></x-product>
+<x-product data-name="FC Midtjylland" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75795.png"></x-product>
+<x-product data-name="Os Belenenses" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50148.png"></x-product>
+<x-product data-name="A. Académica de Coimbra" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64232.png"></x-product>
+<x-product data-name="HNK Rijeka" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52356.png"></x-product>
+<x-product data-name="SV Zulte Waregem" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89675.png"></x-product>
+<x-product data-name="Esbjerg fB" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64140.png"></x-product>
+<x-product data-name="Rio Ave FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64237.png"></x-product>
+<x-product data-name="CD Nacional" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53010.png"></x-product>
+<x-product data-name="FC Paços de Ferreira" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75817.png"></x-product>
+<x-product data-name="Stade Rennais FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/55031.png"></x-product>
+<x-product data-name="Qarabağ FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60609.png"></x-product>
+<x-product data-name="Hapoel Tel-Aviv FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59869.png"></x-product>
+<x-product data-name="Rosenborg BK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52806.png"></x-product>
+<x-product data-name="FC Astana" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600605.png"></x-product>
+<x-product data-name="Wisła Kraków" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52651.png"></x-product>
+<x-product data-name="OGC Nice" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52355.png"></x-product>
+<x-product data-name="FC Sochaux-Montbéliard" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52813.png"></x-product>
+<x-product data-name="FC Zorya Luhansk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/65130.png"></x-product>
+<x-product data-name="FC Vorskla Poltava" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/62174.png"></x-product>
+<x-product data-name="FC Thun" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/80409.png"></x-product>
+<x-product data-name="Maccabi Haifa FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59045.png"></x-product>
+<x-product data-name="FC Nordsjælland" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79940.png"></x-product>
+<x-product data-name="FC Rostov" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64500.png"></x-product>
+<x-product data-name="FC Alania Vladikavkaz" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59043.png"></x-product>
+<x-product data-name="FC Vaslui" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89719.png"></x-product>
+<x-product data-name="KKS Lech Poznań" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64227.png"></x-product>
+<x-product data-name="IF Elfsborg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52344.png"></x-product>
+<x-product data-name="Atromitos FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/84641.png"></x-product>
+<x-product data-name="Bursaspor" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52695.png"></x-product>
+<x-product data-name="FC Astra Giurgiu" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/69611.png"></x-product>
+<x-product data-name="HJK Helsinki" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50052.png"></x-product>
+<x-product data-name="FC Metalurh Donetsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64312.png"></x-product>
+<x-product data-name="HNK Hajduk Split" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52359.png"></x-product>
+<x-product data-name="FC St Gallen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/51151.png"></x-product>
+<x-product data-name="FK Jablonec" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/62169.png"></x-product>
+<x-product data-name="FC Sheriff" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/69606.png"></x-product>
+<x-product data-name="FC Karpaty Lviv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59032.png"></x-product>
+<x-product data-name="Apollon Limassol FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52741.png"></x-product>
+<x-product data-name="Aalborg BK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/541006.png"></x-product>
+<x-product data-name="Vitesse" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52985.png"></x-product>
+<x-product data-name="FK Mladá Boleslav" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88134.png"></x-product>
+<x-product data-name="FC Dinamo Minsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50161.png"></x-product>
+<x-product data-name="AC Omonia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50077.png"></x-product>
+<x-product data-name="Grasshopper Club Zürich" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50004.png"></x-product>
+<x-product data-name="Neftçi PFK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59890.png"></x-product>
+<x-product data-name="FC Groningen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50144.png"></x-product>
+<x-product data-name="WKS Śląsk Wrocław" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52655.png"></x-product>
+<x-product data-name="AEK Larnaca FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/54191.png"></x-product>
+<x-product data-name="FC Oţelul Galaţi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50151.png"></x-product>
+<x-product data-name="R. Charleroi SC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52886.png"></x-product>
+<x-product data-name="KVC Westerlo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64124.png"></x-product>
+<x-product data-name="FC Arsenal Kyiv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64313.png"></x-product>
+<x-product data-name="AIK Solna" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52341.png"></x-product>
+<x-product data-name="AEL Limassol FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52800.png"></x-product>
+<x-product data-name="ŠK Slovan Bratislava" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52797.png"></x-product>
+<x-product data-name="FC Luzern" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52808.png"></x-product>
+<x-product data-name="Videoton FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52288.png"></x-product>
+<x-product data-name="PEC Zwolle" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77910.png"></x-product>
+<x-product data-name="sc Heerenveen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59862.png"></x-product>
+<x-product data-name="SK Sturm Graz" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50111.png"></x-product>
+<x-product data-name="Helsingborgs IF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60401.png"></x-product>
+<x-product data-name="Kardemir Karabükspor" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602463.png"></x-product>
+<x-product data-name="Tromsø IL" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53001.png"></x-product>
+<x-product data-name="ADO Den Haag" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52982.png"></x-product>
+<x-product data-name="FC Petrolul Ploieşti" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53030.png"></x-product>
+<x-product data-name="FC Dinamo Bucureşti" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50098.png"></x-product>
+<x-product data-name="FC Rapid Bucureşti" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59039.png"></x-product>
+<x-product data-name="FC Aktobe" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79973.png"></x-product>
+<x-product data-name="AEK Athens FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50129.png"></x-product>
+<x-product data-name="FK Vojvodina" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52810.png"></x-product>
+<x-product data-name="İstanbul Başakşehir" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600288.png"></x-product>
+<x-product data-name="Eskişehirspor" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64266.png"></x-product>
+<x-product data-name="Gaziantepspor" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60563.png"></x-product>
+<x-product data-name="Strømsgodset IF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57485.png"></x-product>
+<x-product data-name="KF Skënderbeu" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64114.png"></x-product>
+<x-product data-name="Servette FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50008.png"></x-product>
+<x-product data-name="Hapoel Kiryat Shmona FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600291.png"></x-product>
+<x-product data-name="FC Utrecht" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52323.png"></x-product>
+<x-product data-name="SV Ried" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/616100.png"></x-product>
+<x-product data-name="FC Shakhtyor Soligorsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64375.png"></x-product>
+<x-product data-name="FC Spartak Trnava" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52904.png"></x-product>
+<x-product data-name="Go Ahead Eagles" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64207.png"></x-product>
+<x-product data-name="FC Shakhter Karagandy" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79968.png"></x-product>
+<x-product data-name="RNK Split" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2601166.png"></x-product>
+<x-product data-name="Brøndby IF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50021.png"></x-product>
+<x-product data-name="FK Crvena zvezda" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50069.png"></x-product>
+<x-product data-name="CS Pandurii Târgu Jiu" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89720.png"></x-product>
+<x-product data-name="Ruch Chorzów" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52807.png"></x-product>
+<x-product data-name="Xanthi FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52956.png"></x-product>
+<x-product data-name="Olympiacos Volou FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2601225.png"></x-product>
+<x-product data-name="Anorthosis Famagusta FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52897.png"></x-product>
+<x-product data-name="Odense BK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52233.png"></x-product>
+<x-product data-name="CS Gaz Metan Mediaş" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75823.png"></x-product>
+<x-product data-name="SCR Altach" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/92382.png"></x-product>
+<x-product data-name="FC Pasching" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2601069.png"></x-product>
+<x-product data-name="IFK Göteborg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50066.png"></x-product>
+<x-product data-name="Debreceni VSC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52958.png"></x-product>
+<x-product data-name="Motherwell FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53035.png"></x-product>
+<x-product data-name="Heart of Midlothian FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50120.png"></x-product>
+<x-product data-name="FK Sarajevo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64378.png"></x-product>
+<x-product data-name="MŠK Žilina" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/61601.png"></x-product>
+<x-product data-name="Aalesunds FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/82819.png"></x-product>
+<x-product data-name="Saint Johnstone FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64249.png"></x-product>
+<x-product data-name="ASA 2013 Târgu Mureş" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602460.png"></x-product>
+<x-product data-name="FK Ventspils" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64359.png"></x-product>
+<x-product data-name="Wolfsberger AC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2603990.png"></x-product>
+<x-product data-name="SKN St Pölten" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602679.png"></x-product>
+<x-product data-name="SV Grödig" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2601058.png"></x-product>
+<x-product data-name="FC Admira Wacker Mödling" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/691000.png"></x-product>
+<x-product data-name="FC Minsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600108.png"></x-product>
+<x-product data-name="FC Gomel" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/66169.png"></x-product>
+<x-product data-name="BK Häcken" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/69621.png"></x-product>
+<x-product data-name="FK Željezničar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64381.png"></x-product>
+<x-product data-name="FC Dinamo Tbilisi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52705.png"></x-product>
+<x-product data-name="NK Lokomotiva Zagreb" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600783.png"></x-product>
+<x-product data-name="NK Slaven Koprivnica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64321.png"></x-product>
+<x-product data-name="NK Varaždin" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60514.png"></x-product>
+<x-product data-name="FH Hafnarfjördur" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59329.png"></x-product>
+<x-product data-name="KR Reykjavík" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52307.png"></x-product>
+<x-product data-name="Bnei Yehuda Tel-Aviv FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/641009.png"></x-product>
+<x-product data-name="FC Dila Gori" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64467.png"></x-product>
+<x-product data-name="FC Botoşani" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2605104.png"></x-product>
+<x-product data-name="İnter Bakı PİK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/74072.png"></x-product>
+<x-product data-name="Aberdeen FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50122.png"></x-product>
+<x-product data-name="Ermis Aradippou FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77891.png"></x-product>
+<x-product data-name="FK AS Trenčín" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64315.png"></x-product>
+<x-product data-name="Odds BK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/71256.png"></x-product>
+<x-product data-name="NK Osijek" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53082.png"></x-product>
+<x-product data-name="Jagiellonia Białystok" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600277.png"></x-product>
+<x-product data-name="Qäbälä FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/93628.png"></x-product>
+<x-product data-name="Randers FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64146.png"></x-product>
+<x-product data-name="AC Horsens" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89695.png"></x-product>
+<x-product data-name="FK Rabotnicki" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/69601.png"></x-product>
+<x-product data-name="The New Saints FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60457.png"></x-product>
+<x-product data-name="FK Ekranas" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59035.png"></x-product>
+<x-product data-name="PFC CSKA Sofia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50076.png"></x-product>
+<x-product data-name="ND Mura 05" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59338.png"></x-product>
+<x-product data-name="FC Milsami Orhei" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600714.png"></x-product>
+<x-product data-name="F91 Dudelange" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59028.png"></x-product>
+<x-product data-name="Zawisza Bydgoszcz" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602720.png"></x-product>
+<x-product data-name="GKS Piast Gliwice" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600545.png"></x-product>
+<x-product data-name="IF Brommapojkarna" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600094.png"></x-product>
+<x-product data-name="Gefle IF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89251.png"></x-product>
+<x-product data-name="Kalmar FF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/541007.png"></x-product>
+<x-product data-name="Dundee United FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50079.png"></x-product>
+<x-product data-name="Rangers FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50121.png"></x-product>
+<x-product data-name="FK Žalgiris Vilnius" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602334.png"></x-product>
+<x-product data-name="PFC Litex Lovech" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64126.png"></x-product>
+<x-product data-name="FC Vaduz" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57482.png"></x-product>
+<x-product data-name="Vålerenga Fotball" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/523100.png"></x-product>
+<x-product data-name="FC Kairat Almaty" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79970.png"></x-product>
+<x-product data-name="FC Differdange 03" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52309.png"></x-product>
+<x-product data-name="Hapoel Beer Sheva FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59340.png"></x-product>
+<x-product data-name="Hapoel Ramat Gan FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/83484.png"></x-product>
+<x-product data-name="FC Zestafoni" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88347.png"></x-product>
+<x-product data-name="NK Olimpija Ljubljana" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53081.png"></x-product>
+<x-product data-name="Shamrock Rovers FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52381.png"></x-product>
+<x-product data-name="Saint Patrick's Athletic FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50133.png"></x-product>
+<x-product data-name="FC Neman Grodno" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59024.png"></x-product>
+<x-product data-name="FC Naftan Novopolotsk" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64372.png"></x-product>
+<x-product data-name="Xäzär Länkäran FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88567.png"></x-product>
+<x-product data-name="Örebro SK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53049.png"></x-product>
+<x-product data-name="Valletta FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52641.png"></x-product>
+<x-product data-name="Linfield FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50134.png"></x-product>
+<x-product data-name="FK Senica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50100.png"></x-product>
+<x-product data-name="PFC Levski Sofia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50044.png"></x-product>
+<x-product data-name="FK Haugesund" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64214.png"></x-product>
+<x-product data-name="Hødd" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2603713.png"></x-product>
+<x-product data-name="FC Dacia Chisinau" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79949.png"></x-product>
+<x-product data-name="FC Torpedo Zhodino" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79551.png"></x-product>
+<x-product data-name="Stjarnan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52308.png"></x-product>
+<x-product data-name="Beitar Jerusalem FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59034.png"></x-product>
+<x-product data-name="Maccabi Netanya FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73561.png"></x-product>
+<x-product data-name="AGF Aarhus" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50019.png"></x-product>
+<x-product data-name="FK Vardar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53080.png"></x-product>
+<x-product data-name="FK Jagodina" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600521.png"></x-product>
+<x-product data-name="PFC Botev Plovdiv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57466.png"></x-product>
+<x-product data-name="Stabæk Fotball" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/61584.png"></x-product>
+<x-product data-name="Sligo Rovers FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52660.png"></x-product>
+<x-product data-name="FK Kukësi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/26041006.png"></x-product>
+<x-product data-name="Inverness Caledonian Thistle FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88279.png"></x-product>
+<x-product data-name="Hibernian FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52821.png"></x-product>
+<x-product data-name="FK Čukarički" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60570.png"></x-product>
+<x-product data-name="FC Koper" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/69617.png"></x-product>
+<x-product data-name="FC Levadia Tallinn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77482.png"></x-product>
+<x-product data-name="Nõmme Kalju FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600371.png"></x-product>
+<x-product data-name="FC Pyunik" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77431.png"></x-product>
+<x-product data-name="FC Zimbru Chisinau" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59036.png"></x-product>
+<x-product data-name="FC Irtysh Pavlodar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79964.png"></x-product>
+<x-product data-name="FC Tobol Kostanay" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79969.png"></x-product>
+<x-product data-name="Breidablik" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/71235.png"></x-product>
+<x-product data-name="NK Široki Brijeg" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73387.png"></x-product>
+<x-product data-name="PFC Beroe Stara Zagora" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73511.png"></x-product>
+<x-product data-name="NK Domžale" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/70690.png"></x-product>
+<x-product data-name="PFC Lokomotiv Sofia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52891.png"></x-product>
+<x-product data-name="FC Ordabasy Shymkent" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/82825.png"></x-product>
+<x-product data-name="Skonto FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57479.png"></x-product>
+<x-product data-name="CS Fola Esch" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/7607.png"></x-product>
+<x-product data-name="Ferencvárosi TC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52298.png"></x-product>
+<x-product data-name="Győri ETO FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52287.png"></x-product>
+<x-product data-name="FK Metalurg Skopje" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600538.png"></x-product>
+<x-product data-name="FK Rad" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52827.png"></x-product>
+<x-product data-name="Crusaders FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52992.png"></x-product>
+<x-product data-name="Cliftonville FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52991.png"></x-product>
+<x-product data-name="NK Celje" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59030.png"></x-product>
+<x-product data-name="FC Flora Tallinn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59341.png"></x-product>
+<x-product data-name="FK Rudar Pljevlja" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77927.png"></x-product>
+<x-product data-name="FK Sutjeska" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73936.png"></x-product>
+<x-product data-name="HB Tórshavn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59025.png"></x-product>
+<x-product data-name="Bakı FK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/68201.png"></x-product>
+<x-product data-name="Olimpik-Şüvälan PFK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89673.png"></x-product>
+<x-product data-name="HŠK Zrinjski" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73390.png"></x-product>
+<x-product data-name="PFC Cherno More Varna" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75787.png"></x-product>
+<x-product data-name="ND Gorica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60403.png"></x-product>
+<x-product data-name="FC Chikhura Sachkhere" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/92452.png"></x-product>
+<x-product data-name="FC Metalurgi Rustavi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/61616.png"></x-product>
+<x-product data-name="PFC Lokomotiv Plovdiv 1936" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52369.png"></x-product>
+<x-product data-name="FC Shirak" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59877.png"></x-product>
+<x-product data-name="FC Zhetysu Taldykorgan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/82828.png"></x-product>
+<x-product data-name="KuPS Kuopio" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52350.png"></x-product>
+<x-product data-name="FK Budućnost Podgorica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53078.png"></x-product>
+<x-product data-name="Diósgyőri VTK" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64176.png"></x-product>
+<x-product data-name="Budapest Honvéd FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50054.png"></x-product>
+<x-product data-name="Paksi FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/93452.png"></x-product>
+<x-product data-name="Birkirkara FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/62171.png"></x-product>
+<x-product data-name="KF Shkëndija" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75807.png"></x-product>
+<x-product data-name="MFK Košice" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59029.png"></x-product>
+<x-product data-name="NK Rudar Velenje" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59860.png"></x-product>
+<x-product data-name="FC Daugava Daugavpils" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/87914.png"></x-product>
+<x-product data-name="ÍBV Vestmannaeyjar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52720.png"></x-product>
+<x-product data-name="FC Honka Espoo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/91760.png"></x-product>
+<x-product data-name="Víkingur" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59325.png"></x-product>
+<x-product data-name="FK Zeta" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75834.png"></x-product>
+<x-product data-name="FC Santa Coloma" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/621000.png"></x-product>
+<x-product data-name="FK Borac Banja Luka" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50104.png"></x-product>
+<x-product data-name="Dundalk FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50055.png"></x-product>
+<x-product data-name="KS Flamurtari" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50070.png"></x-product>
+<x-product data-name="Myllykosken Pallo -47" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59012.png"></x-product>
+<x-product data-name="FK Mladost Podgorica" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600103.png"></x-product>
+<x-product data-name="MTK Budapest" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52815.png"></x-product>
+<x-product data-name="EB/Streymur" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77483.png"></x-product>
+<x-product data-name="Kecskeméti TE" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77898.png"></x-product>
+<x-product data-name="Hibernians FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52640.png"></x-product>
+<x-product data-name="USV Eschen/Mauren" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64198.png"></x-product>
+<x-product data-name="KF Laçi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64111.png"></x-product>
+<x-product data-name="Ulisses FC " data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/93260.png"></x-product>
+<x-product data-name="FC Tiraspol" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60611.png"></x-product>
+<x-product data-name="SK Liepājas Metalurgs" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59881.png"></x-product>
+<x-product data-name="KF Tirana" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50049.png"></x-product>
+<x-product data-name="FC Iskra-Stal" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/92785.png"></x-product>
+<x-product data-name="Thór Akureyri" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79555.png"></x-product>
+<x-product data-name="FC Inter Turku" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64161.png"></x-product>
+<x-product data-name="TPS Turku" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50126.png"></x-product>
+<x-product data-name="KF Renova" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89708.png"></x-product>
+<x-product data-name="Bangor City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53068.png"></x-product>
+<x-product data-name="FK Sūduva" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/79557.png"></x-product>
+<x-product data-name="FC Torpedo Kutaisi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64471.png"></x-product>
+<x-product data-name="FC Gagra" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600544.png"></x-product>
+<x-product data-name="Derry City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50086.png"></x-product>
+<x-product data-name="FC Saxan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2604300.png"></x-product>
+<x-product data-name="FC Veris" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/26051007.png"></x-product>
+<x-product data-name="AS Jeunesse Esch" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50059.png"></x-product>
+<x-product data-name="Víkingur Reykjavík" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52697.png"></x-product>
+<x-product data-name="Fram Reykjavík" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50088.png"></x-product>
+<x-product data-name="VPS Vaasa" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64390.png"></x-product>
+<x-product data-name="RoPS Rovaniemi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52812.png"></x-product>
+<x-product data-name="JJK Jyväskylä" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600603.png"></x-product>
+<x-product data-name="B36 Tórshavn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/57476.png"></x-product>
+<x-product data-name="FK Čelik Nikšić" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602852.png"></x-product>
+<x-product data-name="FK Mogren" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/710002.png"></x-product>
+<x-product data-name="FK Turnovo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89709.png"></x-product>
+<x-product data-name="Glentoran FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50056.png"></x-product>
+<x-product data-name="FC Dinamo Batumi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59885.png"></x-product>
+<x-product data-name="FC Tskhinvali" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600302.png"></x-product>
+<x-product data-name="FC Sioni Bolnisi" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64470.png"></x-product>
+<x-product data-name="Bohemian FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52375.png"></x-product>
+<x-product data-name="FK Jelgava" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602254.png"></x-product>
+<x-product data-name="FC Mika" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75044.png"></x-product>
+<x-product data-name="KF Teuta" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59316.png"></x-product>
+<x-product data-name="KF Vllaznia" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52878.png"></x-product>
+<x-product data-name="FC Lahti" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50082.png"></x-product>
+<x-product data-name="SJK Seinäjoki" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2602520.png"></x-product>
+<x-product data-name="IFK Mariehamn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/89248.png"></x-product>
+<x-product data-name="Lincoln FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2605572.png"></x-product>
+<x-product data-name="FC Lusitans" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/75986.png"></x-product>
+<x-product data-name="FK Olimpic Sarajevo" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64304.png"></x-product>
+<x-product data-name="FK Atlantas" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64489.png"></x-product>
+<x-product data-name="JK Sillamäe Kalev" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600372.png"></x-product>
+<x-product data-name="JK Narva Trans" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60565.png"></x-product>
+<x-product data-name="University College Dublin AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/53021.png"></x-product>
+<x-product data-name="FK Spartaks Jūrmala" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/26029100.png"></x-product>
+<x-product data-name="FK Partizani" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52876.png"></x-product>
+<x-product data-name="FC Banants" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77866.png"></x-product>
+<x-product data-name="FC Gandzasar" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/92219.png"></x-product>
+<x-product data-name="NSÍ Runavík" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64150.png"></x-product>
+<x-product data-name="ÍF Fuglafjørdur" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64153.png"></x-product>
+<x-product data-name="Floriana FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50092.png"></x-product>
+<x-product data-name="AUK Broughton FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/88139.png"></x-product>
+<x-product data-name="FK Teteks" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600283.png"></x-product>
+<x-product data-name="Llanelli AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73932.png"></x-product>
+<x-product data-name="FK Trakai" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2606168.png"></x-product>
+<x-product data-name="FK Kruoja" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600621.png"></x-product>
+<x-product data-name="FK Banga" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64348.png"></x-product>
+<x-product data-name="FK Tauras" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64352.png"></x-product>
+<x-product data-name="Glenavon FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50087.png"></x-product>
+<x-product data-name="Portadown FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52996.png"></x-product>
+<x-product data-name="Cork City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52803.png"></x-product>
+<x-product data-name="Drogheda United FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52378.png"></x-product>
+<x-product data-name="Alashkert FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2605268.png"></x-product>
+<x-product data-name="FC Daugava Rīga" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/85936.png"></x-product>
+<x-product data-name="SP La Fiorita" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64508.png"></x-product>
+<x-product data-name="SP Tre Penne" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64515.png"></x-product>
+<x-product data-name="FC Progrès Niederkorn" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52311.png"></x-product>
+<x-product data-name="CS Grevenmacher" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52976.png"></x-product>
+<x-product data-name="UN Käerjéng 97" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/65195.png"></x-product>
+<x-product data-name="FK Lovćen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600290.png"></x-product>
+<x-product data-name="Sliema Wanderers FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50141.png"></x-product>
+<x-product data-name="Newtown AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/60458.png"></x-product>
+<x-product data-name="Bala Town FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600717.png"></x-product>
+<x-product data-name="Prestatyn Town FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600465.png"></x-product>
+<x-product data-name="UE Sant Julià" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/63399.png"></x-product>
+<x-product data-name="UE Santa Coloma" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600542.png"></x-product>
+<x-product data-name="FC Šiauliai" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/77906.png"></x-product>
+<x-product data-name="FC Santos Tartu" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2605697.png"></x-product>
+<x-product data-name="Balzan FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/84734.png"></x-product>
+<x-product data-name="Aberystwyth Town FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64277.png"></x-product>
+<x-product data-name="Cefn Druids AFC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/73933.png"></x-product>
+<x-product data-name="Neath FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2600298.png"></x-product>
+<x-product data-name="SS Folgore" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64507.png"></x-product>
+<x-product data-name="AC Juvenes/Dogana" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/76593.png"></x-product>
+<x-product data-name="AC Libertas" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64509.png"></x-product>
+<x-product data-name="Europa FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2606416.png"></x-product>
+<x-product data-name="SP Tre Fiori" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/64514.png"></x-product>
