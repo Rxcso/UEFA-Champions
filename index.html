@@ -39,9 +39,10 @@
     
     
     
-        <div class="col-md-12 col-xs-12">        
-        
-        <div id="pot1" class="col-xs-11 col-md-5">
+        <div class="col-md-12 col-xs-12"> 
+
+        <div id="pot1" class="col-xs-11 col-md-5 pot">
+        <div class="cabPot">POT 1</div>
         <x-product data-name="Real Madrid CF" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50051.png"></x-product>
 <x-product data-name="FC Bayern München" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50037.png"></x-product>
 <x-product data-name="FC Barcelona" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50080.png"></x-product>
@@ -52,7 +53,8 @@
 <x-product data-name="Borussia Dortmund" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52758.png"></x-product>
 </div>
 
-<div id="pot2" class="col-xs-11 col-md-5">
+<div id="pot2" class="col-xs-11 col-md-5 pot">
+<div class="cabPot">POT 2</div>
 <x-product data-name="Juventus" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50139.png"></x-product>
 <x-product data-name="Arsenal FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52280.png"></x-product>
 <x-product data-name="Manchester City FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52919.png"></x-product>
@@ -63,7 +65,8 @@
 <x-product data-name="FC Porto" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50064.png"></x-product>
 </div>
 
-<div id="pot3" class="col-xs-11 col-md-5">
+<div id="pot3" class="col-xs-11 col-md-5 pot">
+<div class="cabPot">POT 3</div>
 <x-product data-name="SSC Napoli" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50136.png"></x-product>
 <x-product data-name="Bayer 04 Leverkusen" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50109.png"></x-product>
 <x-product data-name="FC Basel 1893" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/59856.png"></x-product>
@@ -74,7 +77,8 @@
 <x-product data-name="Olympiacos FC" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/2610.png"></x-product>
 </div>
 
-<div id="pot4" class="col-xs-11 col-md-5">
+<div id="pot4" class="col-xs-11 col-md-5 pot">
+<div class="cabPot">POT 4</div>
 <x-product data-name="AC Milan" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png"></x-product>
 <x-product data-name="FC Dynamo Kyiv" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52723.png"></x-product>
 <x-product data-name="SS Lazio" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/52973.png"></x-product>
@@ -85,16 +89,25 @@
 <x-product data-name="Galatasaray AŞ" data-img="http://img.uefa.com/imgml/TP/teams/logos/100x100/50067.png"></x-product>
 </div>        
         </div>
+
+
+         <div class="col-md-12 col-xs-12"> 
+              <center>    <div id="btnSorteo" onclick="sorteo()">
+              Sortear!
+              </div>  </center>
+         </div>
         
         
         <div id="sorteo" class="col-md-12 col-xs-12"> 
-        
-        
-        
-        
+            <div id="group1" class="col-xs-11 col-md-5 pot"></div>
+            <div id="group2"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group3"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group4"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group5"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group6"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group7"  class="col-xs-11 col-md-5 pot"></div>
+            <div id="group8"  class="col-xs-11 col-md-5 pot"></div>
         </div>
-        
-        <input id="clickMe" type="button" value="clickme" onclick="sorteo();" />
         
         
         

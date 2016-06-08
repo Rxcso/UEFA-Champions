@@ -10,10 +10,38 @@
         
         
 function sorteo(){
-    $('#sorteo').innerHTML = $('#pot1').childNodes[3].nodeValue;   
-    return 0;    
-    
-}        ;
+
+
+    var x = new Array(4);
+    for (var i = 1; i <= 4; i++) {
+        x[i-1] = new Array(8);
+        for(var j=0; j<8; j++){
+            alert(document.getElementById("pot"+i).childNodes.length);    
+            x[i-1][j] = document.getElementById("pot"+i).childNodes[2*j+3].cloneNode(true);
+            alert(""+x[i-1][j].className);    
+        }
+    }
+    for (var i = 0; i < 4; i++) { 
+        for(var j=7; j>0; j--){
+            var nj = Math.floor((Math.random()*j));
+            var temp = x[i][nj];
+            x[i][nj] = x[i][j];
+            x[i][j] = temp;    
+        }
+    }
+
+    for (var i = 1; i <= 8; i++){
+            $("#group"+(i)).empty();       
+        }  
+
+    for(var j=0; j<8; j++){
+        for (var i = 0; i < 4; i++){
+
+            document.getElementById("group"+(j+1)).appendChild( x[i][j] );       
+        }    
+        
+    }
+};
         
         
         

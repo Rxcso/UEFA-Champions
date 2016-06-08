@@ -10,6 +10,43 @@ z-index:90;
 background-color:#11033F;
 }
 
+
+#btnSorteo{
+    width: 50%;
+    height: 60px;
+    background-image:url(./images/sorteo.jpg) ; 
+    background-size: 100% 100%; 
+    opacity: 50%;
+    border-radius: 20px;
+    color: #701212;   
+    padding: 10px;
+    text-align: center; 
+    cursor: help;
+    font-size: 200%;
+    font-weight: bold; 
+}
+
+.pot{
+    text-align:center;
+    background-color:#11033F;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.3);     
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+
+}
+
+.cabPot{
+    background-color:#1A177B;
+    box-shadow: 0 0px 3px rgba(0,0,0,0.3);     
+    border-radius: 10px;
+    font-weight: bold;
+    height: 10%;
+    margin: 10px;
+    color:#C7C7C7;
+
+}
+
 .linea{
     height: 10px; 
     width: 105%; 
@@ -30,6 +67,7 @@ background-color:#11033F;
 #cuerpo{
 z-index: 20;
 left:5%;
+padding-top: 5%; 
 }
 
 #image-cabecera{
@@ -59,6 +97,7 @@ x-product::shadow .product-img {
     cursor: pointer;
     width: 25%;
     height: 90%;
+    left:-40%;
     position: relative;
     border-radius: 10%;
     z-index: 30;
